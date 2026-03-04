@@ -1,19 +1,23 @@
- {
-  "header": "My Page",
-  "media": [
-    {
-      "type": "text",
-      "text": "Welcome to app"
-    },
-    {
-      "type": "image",
-      "title": "Banner",
-      "url": "https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img9.jpeg"
-    },
-    {
-      "type": "youtube",
-      "title": "Video",
-      "youtubeId": "R4P2UTgYebg"
-    }
-  ]
-}
+{
+   "media":[
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_exam/main/exam1.jpg"
+      },
+      
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_exam/main/exam2.jpg"
+      },
+     
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_exam/main/video5.mp4"
+      },
+       
+      {
+         "type":"youtube",
+         "Id":"_W-EvzjDFMk"
+       }
+   ]
+ }
