@@ -2,22 +2,53 @@
    "media":[
       {
          "type":"image",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_exam/main/exam1.jpg"
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img1.jpeg"
       },
-      
       {
          "type":"image",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_exam/main/exam2.jpg"
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img2.jpeg"
       },
-     
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img3.jpeg"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img4.jpeg"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img5.jpeg"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img6.jpeg"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img7.jpeg"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img8.jpeg"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/img9.jpeg"
+      },
       {
          "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_exam/main/video5.mp4"
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/video1.mp4"
+      },
+      {
+         "type":"pdf",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/file1.pdf"
       },
        
       {
          "type":"youtube",
-         "Id":"_W-EvzjDFMk"
+         "Id":"R4P2UTgYebg"
        }
    ]
+
  }
