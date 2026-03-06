@@ -43,7 +43,7 @@
       {
       "type":"text",
       "text":"முக்கிய அறிவிப்பு: இந்த செயலி எந்த அரசுத் துறையுடனும் தொடர்புடையது அல்ல.\n இந்த செயலி பொதுமக்களுக்கு கிடைக்கும் தகவல்களை மட்டும் வழங்குகிறது.\nஅதிகாரப்பூர்வ தகவல்களுக்கு கீழ்கண்ட அரசுத் தளத்தை பாருங்கள்:\n https://www.tnesevai.tn.gov.in, \n https://edistrict.tn.gov.in"
-      }
+      },
       {
          "type":"pdf",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/file1.pdf"
@@ -57,5 +57,6 @@
 
 
  }
+
 
 
