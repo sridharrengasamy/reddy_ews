@@ -41,8 +41,7 @@
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/video1.mp4"
       },
       {
-      "type":"link",
-      "url":"https://www.tnesevai.tn.gov.in",
+      "type":"text",
       "text":"முக்கிய அறிவிப்பு:
          இந்த செயலி எந்த அரசுத் துறையுடனும் தொடர்புடையது அல்ல.
          இந்த செயலி பொதுமக்களுக்கு கிடைக்கும் தகவல்களை மட்டும் வழங்குகிறது.
@@ -63,3 +62,4 @@
 
 
  }
+
